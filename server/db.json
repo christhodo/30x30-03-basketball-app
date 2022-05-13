@@ -1,0 +1,20 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "date": "May 2nd",
+      "opponent": "Phoenix Suns",
+      "score": "114 - 121",
+      "winner": "Phoenix Suns",
+      "mvp": "DeAndre Ayton"
+    },
+    {
+      "id": "BGykMLv",
+      "date": "May 4th",
+      "opponent": "Phoenix Suns",
+      "score": "109 - 129",
+      "winner": "Phoenix Suns",
+      "mvp": "Chris Paul"
+    }
+  ]
+}
